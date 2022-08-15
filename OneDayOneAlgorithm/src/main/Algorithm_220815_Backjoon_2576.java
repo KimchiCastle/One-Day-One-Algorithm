@@ -38,7 +38,7 @@ public class Algorithm_220815_Backjoon_2576 {
 			}
 			
 		}
-		
+		//내림차순정렬
 		Collections.sort(list);
 		
 		if(res != -1) {

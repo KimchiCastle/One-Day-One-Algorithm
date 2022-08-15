@@ -13,7 +13,7 @@ import java.util.StringTokenizer;
  */
 
 
-//이분탐색으로 풀기
+//HashMap을 사용해서 풀기
 public class Algorithm_220813_Backjoon_10816_2 {
 	
 	public static void main(String[] args) throws Exception {
