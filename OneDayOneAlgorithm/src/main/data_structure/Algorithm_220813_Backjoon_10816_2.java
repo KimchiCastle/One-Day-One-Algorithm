@@ -1,4 +1,4 @@
-package main.implementation;
+package main.data_structure;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
